@@ -1,0 +1,4 @@
+node_modules
+.prettierrc
+.postcss.config.js
+.tailwind.config.js
